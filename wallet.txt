@@ -1,2 +1,0 @@
-# Taruh private key di sini, satu per baris. Baris # diabaikan.
-# Simpan file ini di direktori yang sama dengan minter.cjs
